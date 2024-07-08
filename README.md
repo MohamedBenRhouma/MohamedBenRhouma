@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm MohamedbBenRhouma</h1>
-<h3 align="center">A passionate Student Engineer for IT </h3>
+<h3 align="center">A Computer science engineer </h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/88/e5/a4/88e5a4a52f0d7725c5e56364422b79fc.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedbenrhouma&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedbenrhouma" /> </p>
 
-- 🌱 I’m currently learning **Fog Computing/DevOps/Cloud Infrastructure**
 
 - 📫 How to reach me **Mohamed.benrhouma@enis.tn**
 
